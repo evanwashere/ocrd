@@ -1,0 +1,10 @@
+.env
+.build
+.vscode
+.swiftpm
+Packages
+.DS_Store
+db.sqlite
+xcuserdata
+*.xcodeproj
+DerivedData/
